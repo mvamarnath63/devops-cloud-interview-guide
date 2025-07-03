@@ -1,0 +1,46 @@
+Day-to-Day Activities (DevOps Engineer – Interview Answer)
+
+
+As part of my day-to-day responsibilities, I begin my work with the daily stand-up meeting, following the Agile methodology which we used in my previous project. During the stand-up, 
+I provide updates on:
+
+What I worked on yesterday
+
+What I plan to do today
+
+If I’m blocked, I explain the issue clearly and mention whom I’m collaborating with to get it resolved (e.g., the developer, cloud architect, etc.)
+
+After the stand-up, I move to Jira, which is our project management and ticketing tool. I review all assigned tasks and check for any high-priority tickets, such as:
+
+Production issues
+
+Failing builds or deployments
+
+Monitoring alerts (like CPU spikes or failed pods)
+
+If there's any incident or alert, I begin with root cause analysis, check logs using tools like CloudWatch, Prometheus, or Grafana, and take necessary actions.
+
+If there are no immediate issues, I focus on:
+
+CI/CD pipeline maintenance (e.g., Jenkins, GitHub Actions)
+
+Writing or improving Terraform/Helm code for infrastructure
+
+Dockerizing applications or updating Kubernetes manifests
+
+Automating manual tasks using shell or Python scripts
+
+Code reviews and collaborating with developers for smooth delivery
+
+------------------------------------------------------------------------------------------------
+
+
+Hey my Name is Amarnath prviouly i worked in wissen infotech, and i worked for GE Healthcare  clicent as part for my day to day activities 
+i worked on ci/cd pipeline using jenkins, so we have multiple repositories in the organization. we have mutiple micro services, i am one of the key memeberr who work on ci/cd pipeline, my major activty also includes writitng infrastructure as code using terraform.
+so i work with multiple development teams where they have request for infrastructure creation and whenever a request comes to the devops team , i'm one of the team members who pick up the terraform related activities 
+or infrastructure as code related activites and deliver work through terraform
+
+Throughout the day, I’m also monitoring dashboards, checking alerting systems, and attending ad hoc meetings related to release planning, environment stability, or architecture improvements.
+
+I always ensure that whatever I deliver is tested, version-controlled, and aligned with the team’s DevOps standards."
+
