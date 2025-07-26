@@ -31,10 +31,10 @@ spec:
           image: mongo:3.6.5-jessie
           ports:
             - containerPort: 27017
-          volumeMounts:
-            - name: mongo-persistent-storage
-              mountPath: /data/db
-      volumes:
-        - name: mongo-persistent-storage
-          persistentVolumeClaim:
-            claimName: mongo-ebs-pvc
+          #volumeMounts:
+          #  - name: mongo-persistent-storage
+           #   mountPath: /data/db
+      #volumes:
+      #  - name: mongo-persistent-storage
+       #   persistentVolumeClaim:
+       #     claimName: mongo-ebs-pvc
