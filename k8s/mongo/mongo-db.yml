@@ -24,8 +24,8 @@ spec:
       labels:
         app: mongo
     spec:
-      nodeSelector:
-        kubernetes.io/hostname: ip-192-168-23-109.ap-south-1.compute.internal
+      #nodeSelector:
+       # kubernetes.io/hostname: ip-192-168-23-109.ap-south-1.compute.internal
       containers:
         - name: mongo
           image: mongo:3.6.5-jessie
