@@ -25,3 +25,4 @@ spec:
     requests:
       storage: 5Gi
   storageClassName: manual
+  #if u want work with these file chnage file name
